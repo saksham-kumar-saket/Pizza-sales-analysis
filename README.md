@@ -13,3 +13,5 @@ Tools used:
 1) MS-Excel
 2) MySQL
 3) Power BI Destop 
+
+In conclusion, the project provided a practical learning ground for the entire data analysis workflow — from data preparation to visualization and communication. The insights gleaned from this experience will undoubtedly inform future data analysis endeavors, ensuring more informed decision-making and deeper business understanding.
