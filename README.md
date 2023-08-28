@@ -4,10 +4,10 @@ Problem Statement by Client : Analyze key indicators for their pizza sales data 
 
 Approach : 
 1) Cleaned,processed the raw data and extracted actionable, relevant information from it using excel
-2) Defined the KPI's that needs to be calculated . Example:- **Total revenue, Average Order value,Total pizzas sold,,Total orders,Average pizzas per order** etc.
-3) Imported the excel file to the mySQL server to find the necessary information related to KPI's
-4) Imported the excel file to the POWER BI destop to build dynamic dashboard.
-5) Some of the visualization include **Daily,Monthly trend for total orders**,**Percentage sales by pizza category and size**,**TOP and bottom 5 best sellers by revenue,quantity and orders**.
+2) In order to guide the analysis, key performance indicators (KPIs) were identified. These encompassed metrics such as Total Revenue, Average Order Value, Total Pizzas Sold, Total Orders, and Average Pizzas per Order, among others.
+3) Subsequently, the processed data was imported into a MySQL server. This facilitated the retrieval of information necessary for the computation of the previously defined KPIs.
+4) Furthermore, the Excel file was also imported into POWER BI Desktop, a powerful data visualization tool. Within this platform, a dynamic and interactive dashboard was crafted. 
+5) Notable visualizations incorporated in the dashboard included trends displayed on a daily and monthly basis for total orders, the proportion of sales attributed to different pizza categories and sizes, as well as a ranking of the top and bottom 5 best-selling items based on revenue, quantity, and order count.
 
 Tools used:
 1) MS-Excel
